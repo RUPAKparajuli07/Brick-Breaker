@@ -68,3 +68,13 @@ The game runs inside a while loop that checks for events (such as quitting the g
 - More sophisticated collision detection, power-ups, or additional levels could be implemented for an enhanced gaming experience.
 
 This documentation outlines the foundational structure and functionalities of the Brickstroy game, providing a clear guide for understanding, maintaining, or extending the game.
+
+Sure, for documentation purposes, including a preview or screenshot that illustrates the game or specific features in action can be highly beneficial for understanding how the components come together visually. 
+
+### Preview
+
+Below is a preview image of the "Brickstroy" game in action. This image showcases the game's window with bricks, the base pad, and the ball, giving you a glimpse into the gameplay, graphical layout, and the interaction of various game elements.
+
+[Please imagine an image here showing the game window with colorful bricks at the top, a green ball in motion, and a blue base pad at the bottom. The window background is black, and there's a score displayed in white font at the top.]
+
+**Note:** Since I can't display or upload images directly, please visualize based on the description provided or attach an image according to the specific requirements of your documentation or platform where this documentation will be used.
