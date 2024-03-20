@@ -77,4 +77,6 @@ Below is a preview image of the "Brickstroy" game in action. This image showcase
 
 [Please imagine an image here showing the game window with colorful bricks at the top, a green ball in motion, and a blue base pad at the bottom. The window background is black, and there's a score displayed in white font at the top.]
 
+![Screenshot 2024-03-20 102554](https://github.com/RUPAKparajuli07/Brick-Breaker/assets/110843279/edd8348a-6722-4d84-a224-df3fc700dc7e)
+
 **Note:** Since I can't display or upload images directly, please visualize based on the description provided or attach an image according to the specific requirements of your documentation or platform where this documentation will be used.
